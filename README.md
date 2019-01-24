@@ -16,7 +16,7 @@
 ---
 
 **Working in City Government**
-- (NYC) The Service Design Studio at the Mayor’s Office for Economic Opportunity
+- (NYC) The Service Design Studio at the Mayor’s Office for Economic Opportunity — https://www1.nyc.gov/site/opportunity/portfolio/service-design-studio.page
 
 ---
 
