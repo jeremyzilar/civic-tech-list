@@ -1,7 +1,13 @@
 
-# Civic Tech list
+# Civic-Tech list
 
-## A listing of civic tech organizations that are committed to human-centered design, cross-functional teams, and making an impact on public services.
+## A listing of civic-tech organizations that are committed to human-centered design, cross-functional teams, working in the open, and making an impact on public services.
+
+---
+
+**Why does this list exist?**
+As someone who works in the government, I get a lot of questions from people about how they can do more work for government or civic tech in general. Specifically, I needed one list to be able to forward on to people, and it needed to be in a place where others can contribute. 
+
 
 ---
 
