@@ -1,6 +1,9 @@
 
 # Civic Tech list
-## A listing of civic tech organizations that are committed to human-centered design, building healthy cross-functional teams, and making an impact on the public.
+
+## A listing of civic tech organizations that are committed to human-centered design, cross-functional teams, and making an impact on public services.
+
+---
 
 **Working in the Federal Government**
 - 18F — https://18f.gsa.gov/
@@ -10,8 +13,12 @@
 - OPM Labs — https://lab.opm.gov/
 - xD — https://xdgov.github.io/xd.gov/
 
+---
+
 **Working in City Government**
 - (NYC) The Service Design Studio at the Mayor’s Office for Economic Opportunity
+
+---
 
 **Working for Government**
 - Code for America — https://www.codeforamerica.org/
