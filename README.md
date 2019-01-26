@@ -36,6 +36,7 @@ As someone who works in the government, I get a lot of questions from people abo
 - AdHoc - https://adhocteam.us
 - Skylight - https://skylight.digital
 
+---
 
 **Academic**
 - Data-Smart City Solutions - https://datasmart.ash.harvard.edu
