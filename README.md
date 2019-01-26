@@ -23,6 +23,9 @@ As someone who works in the government, I get a lot of questions from people abo
 
 **Working in City Government**
 - (NYC) The Service Design Studio at the Mayor’s Office for Economic Opportunity — https://www1.nyc.gov/site/opportunity/portfolio/service-design-studio.page
+- Boston - [New Urban Mechanics](https://www.boston.gov/departments/new-urban-mechanics)
+- Philadelphia - New Urban Mechanics
+- San Francisco - [San Francisco Innovation Fellow](https://www.innovation.sfgov.org/about-us)
 
 ---
 
@@ -30,3 +33,9 @@ As someone who works in the government, I get a lot of questions from people abo
 - Code for America — https://www.codeforamerica.org/
 - NAVA — https://www.navapbc.com/
 - Truss - https://truss.works/
+- AdHoc - https://adhocteam.us
+- Skylight - https://skylight.digital
+
+
+**Academic**
+- Data-Smart City Solutions - https://datasmart.ash.harvard.edu
